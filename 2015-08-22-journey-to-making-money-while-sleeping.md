@@ -6,7 +6,7 @@ I usually introduce myself as a software developer. For most of the money I've m
 
 There is this saying about sofware developers: the good ones are lazy. That's not a description many other fields would see as a compliment, but it is poignantly so for software development.
 
-Why are good software developers lazy? Software is about automation. If there is a task that wastes an hour of a software developer's time per day, then you could be certain that she would look to writing something that automates this process. A software developer must take this to hear to be efficient.
+Why are good software developers lazy? Software is about automation. If there is a task that wastes an hour of a software developer's time per day, then you could be certain that she would look to writing something that automates this process. A software developer must take this to heart to be efficient.
 
 This is where I'd like to take the laziness metaphor further: building a solid and financially secure future for my family in an automated manner. I *could* go to work everyday until I reach the ripe age of 70, assuming I live and I am able to work until then, retire, and finally take those year long trips abroad. I could, but would rather not. I would like go travel while my family is young, while my kids aren't busy, while Trina and I could keep up with them. I will if I have to... but the reality is that I don't have to. Laziness aside, I feel that building a secure future for my family is the morally and financially responsible thing to do. Shall I lose the ability to make money through an accident or a disease, then I have my family covered.
 
