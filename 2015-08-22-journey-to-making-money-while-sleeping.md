@@ -26,12 +26,15 @@ It's a good thing that I consume a lot of information though, to help get myself
 
 ## Dane Maxwell of The Foundation
 
-One podcast I enjoy listening to is [Smart Passive Income](http://www.smartpassiveincome.com). In one of their episodes entitled [Building a Lucrative Business with No Ideas, No Expertise & No Money](http://www.smartpassiveincome.com/no-ideas-no-expertise-no-money-business/), I came across a fellow called Dane Maxwell from The Foundation. This fellow apparently says many similar things to The Lean Startup, but it stuck with me. I've been doing things mostly right, but with a fundamental difference - I didn't find the customer first. Dane Maxwell's formula:
+One podcast I enjoy listening to is [Smart Passive Income](http://www.smartpassiveincome.com). In one of their episodes entitled [Building a Lucrative Business with No Ideas, No Expertise & No Money](http://www.smartpassiveincome.com/no-ideas-no-expertise-no-money-business/), I came across a fellow called Dane Maxwell from The Foundation. He says many similar things to The Lean Startup, but his words stuck with me. Dane Maxwell's [formula](http://lp.thefoundation.com/patflynn?afmc=pflynn):
 
-1. Find the customer/s (they must be willing to give, or have already given you money)
-2. Build it
+1. Find and validate the idea
+2. Sketch a solution
+3. Pre-sell the idea
+4. Build the product
+5. Launch
 
-It is deceivingly simple, yet it makes sense. Business people say that you must find your market first. I always thought that "finding your market" entailed writing and defining your target market in a business plan, then going out to meet your target market with surveys which they fill up. Who wants to do that? Certainly not the lazy me.
+The difference is deceivingly small, yet it makes sense. Business people say that you must find your market first. I always thought that "finding your market" entailed writing and defining your target market in a business plan, then going out to meet your target market with surveys which they fill up. Who wants to do that? Certainly not the lazy me.
 
 ## Jason Cohen of WPEngine
 
