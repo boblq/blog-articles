@@ -1,6 +1,6 @@
 # My Background
 
-I usually introduce myself as a software developer. For most of the money I've made with software, it has been done with trading my time to get money. I go to work at 7am, go home at 4pm, and collect a paycheck every month. Software development is quite rewarding in many levels. It is intellectually rewarding, it is engaging, it is challenging, and it doesn't hurt that you can make a decent living.
+I usually introduce myself as a software developer. For most of the money I've made with software, it has been done with trading my time to get money. I go to work at 7 a.m., go home at 4 p.m., and collect a paycheck every month. Software development is quite rewarding in many levels. It is intellectually rewarding, it is engaging, it is challenging, and it doesn't hurt that you can make a decent living.
 
 ## Towards Laziness
 
