@@ -26,7 +26,7 @@ It's a good thing that I consume a lot of information though, to help get myself
 
 ## Dane Maxwell of The Foundation
 
-One podcast I enjoy listening to is [Smart Passive Income](http://www.smartpassiveincome.com). In one of their episodes entitled [Building a Lucrative Business with No Ideas, No Expertise & No Money](http://www.smartpassiveincome.com/no-ideas-no-expertise-no-money-business/), I came across a fellow called Dane Maxwell from the foundation. This fellow apparently says many similar things to The Lean Startup, but it stuck with me. I've been doing things mostly right, but with a fundamental difference - I didn't find the customer first. Dane Maxwell's formula:
+One podcast I enjoy listening to is [Smart Passive Income](http://www.smartpassiveincome.com). In one of their episodes entitled [Building a Lucrative Business with No Ideas, No Expertise & No Money](http://www.smartpassiveincome.com/no-ideas-no-expertise-no-money-business/), I came across a fellow called Dane Maxwell from The Foundation. This fellow apparently says many similar things to The Lean Startup, but it stuck with me. I've been doing things mostly right, but with a fundamental difference - I didn't find the customer first. Dane Maxwell's formula:
 
 1. Find the customer/s (they must be willing to give, or have already given you money)
 2. Build it
