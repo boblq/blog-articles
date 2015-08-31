@@ -6,7 +6,7 @@ This post is a little more technical. It contains details on the steps I will ta
 
 How we do this will change. I want us to change what works and doesn't work in the context that we operate. When I first read *Rich Dad, Poor Dad*, I was certain it would be as easy to do it here. I don't doubt that you can do it. It's not as simple as it is in the US though, because in the Philippines, the rent you can charge is lower than the monthly payments to the bank. That is not to say that I only intend to work with businesses in the Philippines. Software, thanks to the internet, can be made and managed from anywhere.
 
-A lot of these are from [PDFs from The Foundation](foundation_pdfs). I tweaked them slightly to take into account the language differences.
+A lot of these are from [PDFs from The Foundation](foundation_pdfs). I tweaked them slightly to take into account the language differences and recommendations from [Jason Cohen's talk](jason_cohen).
 
 1. Reach out to your social network
 2. Rank the responses
@@ -47,3 +47,4 @@ Have a great week!
 
   [journey]: https://medium.com/@ramontayag/journey-to-making-money-while-sleeping-e35cbe64c286
   [foundation_pdfs]: https://thefoundation.com/spi
+  [jason_cohen]: http://www.it-engelhardt.de/jason-cohen-microconf-2013/
