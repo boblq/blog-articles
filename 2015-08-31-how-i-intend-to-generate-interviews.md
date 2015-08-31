@@ -2,7 +2,7 @@
 
 Last week, I posted about my intentions on how I will go about [making money while sleeping](journey). It got about 150 likes on Facebook. For an introvert like me, that's a lot. It probably comes second to my post about Roque being born. I must have gotten 150 likes because cheated a little and made it about providing for him (and my family).
 
-This post is a little more technical. It contains details on the steps I will take to generate interviews. These interviews will help me rank which industries/businesses will offer the best chances that we'll be able to create a successful, recurring revenue software business.
+This post is more technical. It contains details on the steps I will take to generate interviews. These interviews will help me rank which industries/businesses will offer the best chances that we'll be able to create a successful, recurring revenue software business.
 
 How we do this will change. I want us to change what works and doesn't work in the context that we operate. When I first read *Rich Dad, Poor Dad*, I was certain it would be as easy to do it here. I don't doubt that you can do it. It's not as simple as it is in the US though, because in the Philippines, the rent you can charge is lower than the monthly payments to the bank. That is not to say that I only intend to work with businesses in the Philippines. Software, thanks to the internet, can be made and managed from anywhere.
 
