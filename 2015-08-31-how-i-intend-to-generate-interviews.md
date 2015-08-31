@@ -10,8 +10,8 @@ The manner in which we approach things will change. I want us to change what wor
 
 A lot of these are from [PDFs from The Foundation](foundation_pdfs). I tweaked them slightly to take into account the language differences.
 
-- **Ask your social network**: "Who here owns/runs, or knows someone that owns/runs a small to medium sized business?"
-- **Rank** the responses according to the following:
+1. **Ask your social network**: "Who here owns/runs, or knows someone that owns/runs a small to medium sized business?"
+2. **Rank** the responses according to the following:
   - do they already pay for software? If they do, then they are probably comfortable using software and paying for it.
   - how lucrative is the industry? The more profitable, the larger their margins, the more money they'll have to pay for software.
   - do they make P5,000,000 or more per year?
@@ -19,9 +19,9 @@ A lot of these are from [PDFs from The Foundation](foundation_pdfs). I tweaked t
   - how many businesses are there in that industry? The more there are, the larger your target market.
   - can they be reached online? This shows they are ready to use online software.
   - can you get in touch with a person that has a pain-point and is a decision-maker? Many time the person you are able to talk to isn't a decision-maker. Don't waste your time.
-- Starting with the business/industry that ranked highest, ask your social network again if they know anyone in the industry
-- Search online (Google) for other companies in the same industry
-- Contact these companies and ask them a set of questions to get to the bottom of their problems.
+3. Starting with the business/industry that ranked highest, ask your social network again if they know anyone in the industry
+4. Search online (Google) for other companies in the same industry
+5. Contact these companies and ask them a set of questions to get to the bottom of their problems.
 
 The next post will be about the questions to ask once you get the list of companies.
 
