@@ -18,7 +18,7 @@ A lot of these are from [PDFs from The Foundation](foundation_pdfs). I tweaked t
   - do they have a profit-driven mindset? Paying for software is spending to save money. Have profit in mind will let them see this clearly.
   - how many businesses are there in that industry? The more there are, the larger your target market.
   - can they be reached online? This shows they are ready to use online software.
-  - can you get in touch with a person that has a pain-point and is a decision-maker? Many time the person you are able to talk to isn't a decision-maker. Don't waste your time.
+  - can you get in touch with a person that has a pain-point and is a decision-maker? Many times the person you are able to talk to isn't a decision-maker. Don't waste your time.
 3. Starting with the business/industry that ranked highest, ask your social network again if they know anyone in the industry
 4. Search online (Google) for other companies in the same industry
 5. Contact these companies and ask them a set of questions to get to the bottom of their problems.
