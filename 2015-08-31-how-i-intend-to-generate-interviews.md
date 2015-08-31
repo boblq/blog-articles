@@ -6,22 +6,40 @@ This post is a little more technical. It contains details on the steps I will ta
 
 How we do this will change. I want us to change what works and doesn't work in the context that we operate. When I first read *Rich Dad, Poor Dad*, I was certain it would be as easy to do it here. I don't doubt that you can do it. It's not as simple as it is in the US though, because in the Philippines, the rent you can charge is lower than the monthly payments to the bank. That is not to say that I only intend to work with businesses in the Philippines. Software, thanks to the internet, can be made and managed from anywhere.
 
-## Steps
-
 A lot of these are from [PDFs from The Foundation](foundation_pdfs). I tweaked them slightly to take into account the language differences.
 
-1. **Ask your social network**: "Who here owns/runs, or knows someone that owns/runs a small to medium sized business?"
-2. **Rank** the responses according to the following:
-  - do they already pay for software? If they do, then they are probably comfortable using software and paying for it.
-  - how lucrative is the industry? The more profitable, the larger their margins, the more money they'll have to pay for software.
-  - do they make P5,000,000 or more per year?
-  - do they have a profit-driven mindset? Paying for software is spending to save money. Have profit in mind will let them see this clearly.
-  - how many businesses are there in that industry? The more there are, the larger your target market.
-  - can they be reached online? This shows they are ready to use online software.
-  - can you get in touch with a person that has a pain-point and is a decision-maker? Many times the person you are able to talk to isn't a decision-maker. Don't waste your time.
-3. Starting with the business/industry that ranked highest, ask your social network again if they know anyone in the industry
-4. Search online (Google) for other companies in the same industry
-5. Contact these companies and ask them a set of questions to get to the bottom of their problems.
+1. Reach out to your social network
+2. Rank the responses
+3. Once you've identified the most promising markets, ask your social network again
+4. Search online for other businesses in the same industry
+5. Contact people from these companies
+
+## Reach Out To Your Social Network
+
+> Who here owns/runs, or knows someone that owns/runs a small to medium sized business?
+
+## Rank The Businesses
+
+Rank the businesses and their industries responses according to the following:
+
+- do they already pay for software? If they do, then they are probably comfortable using software and paying for it.
+- how lucrative is the industry? The more profitable, the larger their margins, the more money they'll have to pay for software.
+- do they make P5,000,000 or more per year?
+- do they have a profit-driven mindset? Paying for software is spending to save money. Have profit in mind will let them see this clearly.
+- how many businesses are there in that industry? The more there are, the larger your target market.
+- can they be reached online? This shows they are ready to use online software.
+- can you get in touch with a person that has a pain-point and is a decision-maker? Many times the person you are able to talk to isn't a decision-maker. Don't waste your time.
+
+## Find More Businesses
+
+Starting with the business / industry ranked the highest, find more businesses to sell to by:
+
+- reaching out to your social network again: "Anyone know in the medical industry here with their own practice?"
+- search (Google) for other businesses in the industry
+
+## Interview Them
+
+Contact these companies and ask them a set of questions to get to the bottom of their problems.
 
 The next post will be about the questions to ask once you get the list of companies.
 
