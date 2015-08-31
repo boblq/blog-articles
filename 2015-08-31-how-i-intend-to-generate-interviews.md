@@ -1,6 +1,6 @@
 # How I Intend to Generate Interviews
 
-Last week, I posted about my intentions on how I will go about [making money while sleeping](journey). It got about 150 likes on Facebook. For an introvert like me, that's a lot. It probably comes second to my post about Roque being born. It's because I cheated a little and made it about providing for him (and my family).
+Last week, I posted about my intentions on how I will go about [making money while sleeping](journey). It got about 150 likes on Facebook. For an introvert like me, that's a lot. It probably comes second to my post about Roque being born. I must have gotten 150 likes because cheated a little and made it about providing for him (and my family).
 
 This post is a little more technical. It contains details on the steps I will take to generate interviews. These interviews will help me rank which industries/businesses will offer the best chances that we'll be able to create a successful, recurring revenue software business.
 
