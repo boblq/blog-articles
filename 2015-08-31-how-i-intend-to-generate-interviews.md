@@ -11,8 +11,7 @@ A lot of these are from [PDFs from The Foundation](foundation_pdfs). I tweaked t
 1. Reach out to your social network
 2. Rank the responses
 3. Find more businesses in the best industries
-4. Search online for other businesses in the same industry
-5. Contact people from these companies
+4. Contact people from these companies
 
 ## Reach Out To Your Social Network
 
