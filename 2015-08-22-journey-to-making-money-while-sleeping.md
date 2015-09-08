@@ -50,3 +50,13 @@ You can also find notes of the video [here](http://www.it-engelhardt.de/jason-co
 # Automation on Many Levels
 
 My ultimate goal is to automate and streamline the business-creation of these software business. A business that creates businesses. These businesses don't have to be large, multi-million dollar, press-release riddled, and with publicly traded shares - they can be small, solid businesses. [Many small, solid businesses](https://medium.com/entrepreneur-s-handbook/i-sat-down-with-a-millionaire-who-operates-10-businesses-while-sailing-around-the-world-with-his-338929c4e8c9). Then, I could sleep better at night knowing my son will more likely have money for college even when I can no longer get a paycheck.
+
+Comments: From Robert La Quey
+
+I admire the lazy programmer though I have never been one. My puzzle is quite a lot different. I am instead an obcessional programmer, a hard core hacker. You seem to be able to achieve a more balanced perspective than I can. Again I admire that. 
+
+Still I often feel as if I have never had a job. I have always free lanced and worked as a consultant on contracts, usually on a program I proposed because I wanted to do it. I have been a lucky man to survive this way. 
+
+I have treated money like air. You breath in. You breath out. Sometimes you hold your breath. Sometimes you hold your breath longer than you want to. Ok, I will admit it. There have been times I damn near drowned. 
+
+So I can see the appeal of having a more consistent income, LOL. 
